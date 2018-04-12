@@ -3,7 +3,7 @@ package at.refugeescode.mp10phonebookpersonandaddressonetoone.persistence.model;
 import javax.persistence.*;
 
 @Entity
-public class Person {
+public class Contact {
 
     @Id
     @GeneratedValue
